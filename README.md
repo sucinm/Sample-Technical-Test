@@ -61,5 +61,5 @@ We can read and parse this input in Java using the Scanner class as follows:
 - Create two integer variables to store the number of passanger and count from the input integer.
 - Read each family size and calculate family size to passanger.
 - Increase count every read each family size.
-- If count more than number of family, print "Input must be equal with count of family". Otherwise, calculate the minimum bus.
+- If count not equal to number of family, print "Input must be equal with count of family". Otherwise, calculate the minimum bus.
 
