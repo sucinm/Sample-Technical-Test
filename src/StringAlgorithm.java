@@ -1,10 +1,9 @@
-package SortCharFromString;
-
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
-    public static void main(String[] args) {
+public class StringAlgorithm {
+    public static void SortCharFromString() {
+        System.out.println("Algorithm for Sort Char From String");
         System.out.println("Input sample test: ");
         Scanner scan = new Scanner(System.in);
         String input = scan.nextLine().toLowerCase().replace(" ", "");

@@ -1,6 +1,6 @@
 ## Sample Technical Test Made With ❤️ 
 
-### Sort Char From String
+### Sort Char From String (NA** *A**)
 **Input:**
 
 One line of words
@@ -31,7 +31,7 @@ To create a Java program that sorts a string containing vowels and consonants, w
 
 
 
-### Minimum Bus Required 
+### Minimum Bus Required (NA** D***)
 **Problem:**
 
 Mini bus can only carry at most 4 passangers.
@@ -63,3 +63,32 @@ We can read and parse this input in Java using the Scanner class as follows:
 - Increase count every read each family size.
 - If count not equal to number of family, print "Input must be equal with count of family". Otherwise, calculate the minimum bus.
 
+### Unique Numbers (E****MI**)
+**Problem:**
+
+All numbers that occur exactly once in the input collection.
+
+**Input:**
+
+Array list of number
+
+**Output:**
+
+| Input           |                  Output                  | 
+|-----------------|:----------------------------------------:| 
+| 1, 2, 1, 3      |                   2, 3                   |
+
+### The sum of the two largest elements (E****MI**)
+**Problem:**
+
+The largest sum of any two elements in the given list of positive numbers.
+
+**Input:**
+
+List of number
+
+**Output:**
+
+| Input        | Output | 
+|--------------|:------:| 
+| 5, 9, 7, 11  |  20    |
